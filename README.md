@@ -7,17 +7,17 @@ The list goes like:
 
 2. I dream that Pearson is attacking me with correlation coefficients 
 
-3.The good thing is using Brad Pitt as explanatory variable would yield an R squared of 1.5 
+3. The good thing is using Brad Pitt as explanatory variable would yield an R squared of 1.5 
 
 4. Always consider Log transformation.... sorry I meant Ln. 
 
 5. Whats a statician's favorite dessert ...... Mahalanobia 
 
-6.That girl is soo hot man... naah she's just standard normal 
+6. That girl is soo hot man... naah she's just standard normal 
 
 7. Negatively skewed distributions turn me on 
 
-8.Why did french statisticians never use poisson distribution ? It always sounded fishy 
+8. Why did french statisticians never use poisson distribution ? It always sounded fishy 
 
 9. t distribution: I'm not Normal. I'm just fat. 
 
@@ -39,9 +39,9 @@ The list goes like:
 
 18. Racists are worst , they cluster people and are Kmean to them . 
 
-19.  “The death of one man is a tragedy. The death of a million is a statistic.” ~ A statistician. We mean Stalin 
+19. “The death of one man is a tragedy. The death of a million is a statistic.” ~ A statistician. We mean Stalin 
 
-20.The story never ends at ANOVA. There's MANOVA, ANCOVA, and even MANCOVA 
+20. The story never ends at ANOVA. There's MANOVA, ANCOVA, and even MANCOVA 
 
 21. Whats a statisticians worst nightmare ? Waking up in a random forest 
 
