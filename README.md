@@ -17,7 +17,8 @@ The list goes like:
 
 7. Negatively skewed distributions turn me on 
 
-8. Why did french statisticians never use poisson distribution ? It always sounded fishy 
+8. Why did french statisticians never use poisson distribution ?
+-   It always sounded fishy 
 
 9. t distribution: I'm not Normal. I'm just fat. 
 
@@ -25,7 +26,8 @@ The list goes like:
 
 11. Ooh, she's quad-erattic 
 
-12. What's a Data Scientist worst nightmare ? Getting stuck in the boston cars' traffic 
+12. What's a Data Scientist worst nightmare ?
+-   Getting stuck in the boston cars' traffic 
 
 13. "Never trust a man who only worked with the iris or boston cars datasets " ~ Karl Friedrich Gauss, probably 
 
@@ -50,7 +52,7 @@ The list goes like:
 23. A statistician implemented PCA.... His results were meaningless 
 
 24. CEO: Our sales are trending
-Statistician: no I differenced it. It's Stationary now. 
+- Statistician: no I differenced it. It's Stationary now. 
 
 25. A 1% decrease in Bitcoin price decrease Elon Musk's popularity index by 2% holding other factors constant. 
 
