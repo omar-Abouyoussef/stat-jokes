@@ -11,13 +11,13 @@ The list goes like:
 
 4. Always consider Log transformation.... sorry I meant Ln. 
 
-5. Whats a statician's favorite dessert ...... Mahalanobia 
+5. Whats a statistician's favorite dessert ...... Mahalanobia 
 
 6. That girl is soo hot man... naah she's just standard normal 
 
 7. Negatively skewed distributions turn me on 
 
-8. Why did french statisticians never use poisson distribution ?
+8. Why did french statisticians never use the poisson distribution ?
 -   It always sounded fishy 
 
 9. t distribution: I'm not Normal. I'm just fat. 
@@ -35,17 +35,17 @@ The list goes like:
 
 15. What's ur opinion about Trump?..... I'm Biased 
 
-16. The Bernouli Triaaals! 
+16. The Bernoulli Triaaals! 
 
 17. They say the key to happiness is confidence. And the key to confidence is to act a 100% confident . I didn't even know you could set an alpha = 0 
 
-18. Racists are worst , they cluster people and are Kmean to them . 
+18. Racists are worst, they cluster people and are Kmean to them . 
 
 19. “The death of one man is a tragedy. The death of a million is a statistic.” ~ A statistician. We mean Stalin 
 
 20. The story never ends at ANOVA. There's MANOVA, ANCOVA, and even MANCOVA 
 
-21. Whats a statisticians worst nightmare ? Waking up in a random forest 
+21. What's a statistician's worst nightmare ? Waking up in a random forest 
 
 22. "The probability of the English winning the world Cup given Harry Maguire is 2e-10. It's never coming home"~ Thomas Bayes. 
 
@@ -56,7 +56,7 @@ The list goes like:
 
 25. A 1% decrease in Bitcoin price decrease Elon Musk's popularity index by 2% holding other factors constant. 
 
-26. "I'll send you bi-modal data" ~ A Statistician ultimate Halloween prank 
+26. "I'll send you bi-modal data" ~ A Statistician's ultimate Halloween prank 
 
 27. A statistician was clueless...... He had 99% confidence level 
 
