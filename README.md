@@ -63,5 +63,3 @@ The list goes like:
 28. My life is so random........ just set a seed. 
 
 The list goes on...
-
-Why 
