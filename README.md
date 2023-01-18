@@ -1,5 +1,5 @@
 # stat-jokes
-A list of the most creative/originl/ stat jokes you won't find online expect one or two
+A list of the most creative/original/not so funny stat jokes you won't find online expect one or two
 
 The list goes like: 
 
