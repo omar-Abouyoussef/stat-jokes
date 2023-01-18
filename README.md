@@ -50,7 +50,7 @@ The list goes like:
 23. A statistician implemented PCA.... His results were meaningless 
 
 24. CEO: Our sales are trending 
-Statistician: no I differenced it. It's Stationary now. 
+    Statistician: no I differenced it. It's Stationary now. 
 
 25. A 1% decrease in Bitcoin price decrease Elon Musk's popularity index by 2% holding other factors constant. 
 
