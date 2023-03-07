@@ -62,4 +62,6 @@ The list goes like:
 
 28. My life is so random........ just set a seed. 
 
+29. Whenever you're bored, watch Taylor series.
+
 The list goes on...
